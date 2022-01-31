@@ -2,9 +2,11 @@
 
 The Gemini schema is very simple and self-explanatory. It is a simple YAML where you can put the list of your _**entities**_. The Gemini platform automatically reads entities and fields and provide for you all the API for inserting, updating and retrieving data with validation features.
 
-### Common Entity
+### Common Entities
 
-Here for example a very basic schema with two entities: _Product_ and _Category_ and some basic fields. Each entity always has a name, a list of fields and the logical key used to identify its records.
+Here for example a very basic schema with two entities: _Product_ and _Category_ and some basic fields. Each entity always has a name and a list of fields.
+
+Common entities are those one that can contains multiple records (like a table in SQL or a collection in NoSQL). For this reason each entity has also a logical key to identify a single record. The logical key (_lk_) can contain one or more fields, usually strings or sequence numbers.
 
 ```yaml
 # EXAMPLE - PRODUCT AND CATEGORY SCHEMA DEFINITION

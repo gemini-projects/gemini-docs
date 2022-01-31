@@ -13,15 +13,6 @@ Gemini is useful for a lot of different cases. You can use the platform both for
 * Migration from the Monolith to Cloud Native micro services and micro frontends in a standard and common way around the company teams
 * Expose APIs and services around the company and teams&#x20;
 
-Here is a list of some interesting use cases:&#x20;
-
-* Expose your data with solid REST APIs & OAuth2 without writing code
-* Expose microservices data & boundaries
-* Create enterprise level BackOffice Web Application
-  * For Internal usage (Admin Panels, Services Configuration, etc.)
-  * For your clients, with ready to use full stack components
-* Migration from the Monolith to Cloud Native micro services and GUI
-
 #### _For Developers_
 
 * _Lowcode_ features and components __ designed to avoid repetitive and boring tasks, letting concentrate only on code that matters and with more value

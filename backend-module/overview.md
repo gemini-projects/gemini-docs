@@ -22,8 +22,8 @@ Starting from the schema, Gemini automatically generates for you:
 
 Gemini also provide a way to define REST API configurations, letting the APIs behave as you want. For example you can decide to create read only entities so PUT, POST are disabled. Or you can enable pagination for big data entities in order to avoid an overload for the service.
 
-{% content-ref url="rest-api.md" %}
-[rest-api.md](rest-api.md)
+{% content-ref url="rest-api/" %}
+[rest-api](rest-api/)
 {% endcontent-ref %}
 
 #### The Data Drivers

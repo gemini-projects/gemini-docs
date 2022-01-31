@@ -1,4 +1,4 @@
-# Rest API
+# Date & Time
 
 {% hint style="info" %}
 TODO available soon
