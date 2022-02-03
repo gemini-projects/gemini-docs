@@ -9,3 +9,5 @@ Follow the tutorial in the [repository page](https://github.com/gemini-projects/
 * how to start interacting with basic CRUD REST API over your data model
 * how to use advanced APIs like counts, search and filters
 * how to order data results and use pagination
+
+// TODO Add Docker example with explaination of schema / rest configuration
